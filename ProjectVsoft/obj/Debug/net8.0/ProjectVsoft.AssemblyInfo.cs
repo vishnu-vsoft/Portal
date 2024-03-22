@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectVsoft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a68a22ba329ca9fd81f5ef0933024e62fde0ce6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18a8371444b323f0529be7de10342bdda919416f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectVsoft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectVsoft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

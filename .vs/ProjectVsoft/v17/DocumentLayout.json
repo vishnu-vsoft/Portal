@@ -3,40 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\userdetailspost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\userdetailspost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\admininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\admininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\iadmininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\iadmininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\userdetailspost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\userdetailspost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\iuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\iuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\other\\passwordcrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\other\\passwordcrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\admininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\admininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\models\\adminlogindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\models\\adminlogindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\iadmininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\iadmininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\jobportal1\\projectvsoft\\repository\\iuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F8E41-6B25-42FD-880D-9705D4A68959}|ProjectVsoft\\ProjectVsoft.csproj|solutionrelative:projectvsoft\\repository\\iuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,58 +58,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\EmailSender.cs",
-              "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\EmailSender.cs",
-              "RelativeToolTip": "ProjectVsoft\\Repository\\EmailSender.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAwwDUAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T05:39:18.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IEmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\IEmailSender.cs",
-              "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\IEmailSender.cs",
-              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\IEmailSender.cs",
-              "RelativeToolTip": "ProjectVsoft\\Repository\\IEmailSender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T06:27:10.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAdminInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\IAdminInfo.cs",
-              "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\IAdminInfo.cs",
-              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\IAdminInfo.cs",
-              "RelativeToolTip": "ProjectVsoft\\Repository\\IAdminInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T06:25:34.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\appsettings.json",
               "RelativeDocumentMoniker": "ProjectVsoft\\appsettings.json",
@@ -105,62 +74,132 @@
               "RelativeToolTip": "ProjectVsoft\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-22T05:40:22.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T05:40:22.24Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\AdminInfo.cs",
-              "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\AdminInfo.cs",
-              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\AdminInfo.cs",
-              "RelativeToolTip": "ProjectVsoft\\Repository\\AdminInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T06:24:38.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectVsoft\\Program.cs",
-              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Program.cs",
-              "RelativeToolTip": "ProjectVsoft\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T06:28:07.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\UserLogin.cs",
-              "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\UserLogin.cs",
-              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\UserLogin.cs",
-              "RelativeToolTip": "ProjectVsoft\\Repository\\UserLogin.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAIA5wBwAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T03:43:28.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "UserDetailsPost.cs",
               "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\UserDetailsPost.cs",
               "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\UserDetailsPost.cs",
               "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\UserDetailsPost.cs",
               "RelativeToolTip": "ProjectVsoft\\Repository\\UserDetailsPost.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAuwE0AAAALAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowD0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T03:43:03.741Z",
+              "WhenOpened": "2024-03-22T03:43:03.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\IEmailSender.cs",
+              "RelativeToolTip": "ProjectVsoft\\Repository\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:27:10.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\EmailSender.cs",
+              "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\EmailSender.cs",
+              "RelativeToolTip": "ProjectVsoft\\Repository\\EmailSender.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwC8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:39:18.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectVsoft\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Program.cs",
+              "RelativeToolTip": "ProjectVsoft\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:28:07.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordCrypt.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\other\\PasswordCrypt.cs",
+              "RelativeDocumentMoniker": "ProjectVsoft\\other\\PasswordCrypt.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\other\\PasswordCrypt.cs",
+              "RelativeToolTip": "ProjectVsoft\\other\\PasswordCrypt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:02:58.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Models\\UserDetails.cs",
+              "RelativeDocumentMoniker": "ProjectVsoft\\Models\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Models\\UserDetails.cs",
+              "RelativeToolTip": "ProjectVsoft\\Models\\UserDetails.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:03:49.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdminInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\IAdminInfo.cs",
+              "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\IAdminInfo.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\IAdminInfo.cs",
+              "RelativeToolTip": "ProjectVsoft\\Repository\\IAdminInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:25:34.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminLoginDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Models\\AdminLoginDetails.cs",
+              "RelativeDocumentMoniker": "ProjectVsoft\\Models\\AdminLoginDetails.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Models\\AdminLoginDetails.cs",
+              "RelativeToolTip": "ProjectVsoft\\Models\\AdminLoginDetails.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:43:43.392Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "AdminInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\AdminInfo.cs",
+              "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\AdminInfo.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\AdminInfo.cs",
+              "RelativeToolTip": "ProjectVsoft\\Repository\\AdminInfo.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:24:38.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\UserLogin.cs",
+              "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\UserLogin.cs",
+              "RelativeToolTip": "ProjectVsoft\\Repository\\UserLogin.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAhwBwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:43:28.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IUserLogin.cs",
               "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\Repository\\IUserLogin.cs",
               "RelativeDocumentMoniker": "ProjectVsoft\\Repository\\IUserLogin.cs",

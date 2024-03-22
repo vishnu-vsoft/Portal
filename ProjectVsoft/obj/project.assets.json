@@ -1442,11 +1442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\ProjectVsoft.csproj",
+      "projectUniqueName": "C:\\ProjectVsoft\\JobPortal1\\ProjectVsoft\\ProjectVsoft.csproj",
       "projectName": "ProjectVsoft",
-      "projectPath": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\ProjectVsoft.csproj",
+      "projectPath": "C:\\ProjectVsoft\\JobPortal1\\ProjectVsoft\\ProjectVsoft.csproj",
       "packagesPath": "C:\\Users\\Vishnu_Virtuosoft\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\JobPortal1\\ProjectVsoft\\obj\\",
+      "outputPath": "C:\\ProjectVsoft\\JobPortal1\\ProjectVsoft\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vishnu_Virtuosoft\\AppData\\Roaming\\NuGet\\NuGet.Config",

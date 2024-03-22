@@ -8,11 +8,11 @@ namespace ProjectVsoft.Repository
     public class UserDetailsPost : IUserDetailsPost
     {
         private readonly IConfiguration _configuration;
-        //private readonly IEmailSender _mail;
-        public UserDetailsPost(IConfiguration configuration)
+        private readonly IEmailSender _mail;
+        public UserDetailsPost(IConfiguration configuration,IEmailSender mail)
         {
             _configuration = configuration;
-            //_mail = mail;
+            _mail = mail;
         }
         public async Task<bool> InsertUserAsync(UserDetails userDetails)
         {
@@ -40,17 +40,17 @@ namespace ProjectVsoft.Repository
                         string HashedPassword = PasswordCrypt.SHA1Hashing(ToBeHashed);
                         cmd.Parameters.AddWithValue("@Password", HashedPassword);
                         
-                        int res = await cmd.ExecuteNonQueryAsync();
-                        //if(res > 0)
-                        //{
-                        //    MailContents = await _mail.SendMessage(MailCredentials);
-                        //    if (await _mail.SendEmail(MailContents))
-                        //    {
-                        //        MailContents.Clear();
-                        //        MailCredentials.Clear();
-                        //    }
-                        //}
-                        return res>0;
+                        var res = await cmd.ExecuteNonQueryAsync();
+                        if (res > 0)
+                        {
+                            MailContents = await _mail.SendMessage(MailCredentials);
+                            if (await _mail.SendEmail(MailContents))
+                            {
+                                MailContents.Clear();
+                                MailCredentials.Clear();
+                            }
+                        }
+                        return true;
                     }
 
                 }catch (Exception ex)
@@ -60,21 +60,21 @@ namespace ProjectVsoft.Repository
                 }
             }
         }
-        //public async Task<bool> UserEmailExists(String Email)
-        //{
-        //    string ConnectionString = _configuration.GetConnectionString("MyDb");
-        //    using (SqlConnection connection = new SqlConnection(ConnectionString))
-        //    {
-        //        connection.Open();
-        //        string qry = "SELECT * FROM UserDetails WHERE Email=@Email";
-        //        using (SqlCommand command = new SqlCommand(qry, connection))
-        //        {
-        //            command.Parameters.AddWithValue("@Email", Email);
-        //            SqlDataReader sqlDataReader = await command.ExecuteReaderAsync();
+        public async Task<bool> UserEmailExists(String Email)
+        {
+            string ConnectionString = _configuration.GetConnectionString("MyDb");
+            using (SqlConnection connection = new SqlConnection(ConnectionString))
+            {
+                connection.Open();
+                string qry = "SELECT * FROM UserDetails WHERE Email=@Email";
+                using (SqlCommand command = new SqlCommand(qry, connection))
+                {
+                    command.Parameters.AddWithValue("@Email", Email);
+                    SqlDataReader sqlDataReader = await command.ExecuteReaderAsync();
 
-        //            return sqlDataReader.HasRows;
-        //        }
-        //    }
-        //}
+                    return sqlDataReader.HasRows;
+                }
+            }
+        }
     }
 }
