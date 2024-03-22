@@ -1,0 +1,6 @@
+@ProjectVsoft_HostAddress = http://localhost:5038
+
+GET {{ProjectVsoft_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
