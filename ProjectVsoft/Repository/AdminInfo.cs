@@ -31,6 +31,7 @@ namespace ProjectVsoft.Repository
                             ald.CreatedBy = Convert.ToInt32(reader["CreatedBy"]);
                             ald.UpdatedDate = Convert.ToDateTime(reader["UpdatedDate"]);
                             ald.UpdatedBy = Convert.ToInt32(reader["UpdatedBy"]);
+                            //ald.UpdatedBy = Convert.ToInt32(reader["UpdatedBy"]);
                             result.Add(ald);
                         }
                         return result;
